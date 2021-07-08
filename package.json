@@ -1,7 +1,7 @@
 {
   "name": "wa-me-generator",
   "version": "0.1.0",
-  "homepage": "https://wa-me-generator.herokuapp.com"
+  "homepage": "https://wa-me-generator.herokuapp.com",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
